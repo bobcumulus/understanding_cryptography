@@ -1,0 +1,5 @@
+# ninja log v5
+0	32	1711922407959266755	build.ninja	686c4d092e92e3c5
+1	573	1711861448318017007	CMakeFiles/understanding_crypto_chapter_1.dir/prob_1_1/main.cpp.o	c830c3d214efc6f5
+0	627	1711843253373243732	CMakeFiles/understanding_crypto_chapter_1.dir/main.cpp.o	1b147e49f162feac
+573	683	1711861448430022759	understanding_crypto_chapter_1	4b3bd457647eee84
